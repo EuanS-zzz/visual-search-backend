@@ -1,0 +1,7 @@
+{
+  "name": "visual-search-backend",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/vision": "^4.0.0"
+  }
+}
